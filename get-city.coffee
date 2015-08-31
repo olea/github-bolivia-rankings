@@ -6,7 +6,7 @@ renderer = ECT({ root : 'layout' });
 
 id=process.env.GH_ID
 secret=process.env.GH_SECRET
-city=process.argv[2] || "Vigo"
+city=process.argv[2] || "Bolivia"
 
 city_top = new Top city, id, secret
 

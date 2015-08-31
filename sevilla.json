@@ -1,8 +1,0 @@
-{
-    "output_dir": "../top-github-users-data",
-    "location": ["Sevilla","Seville","Alcalá de Guadaira","Utrera","Mairena del Aljarafe", "Écija"],
-    "city" : "Sevilla",
-    "exclude" : "(México|Oax)",
-    "layout": "layout.ect",
-    "max_pages": 8
-}

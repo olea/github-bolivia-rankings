@@ -1,8 +1,0 @@
-{
-    "output_dir": "../github-country-data",
-    "location": ["Portugal"],
-    "city" : "Portugal",
-    "layout": "layout-english.ect",
-    "cutoff" : [3,1,[0,1]],
-    "big" : true
-}

@@ -1,7 +1,0 @@
-{
-    "output_dir": "../top-github-users-data",
-    "city" : "Cuenca",
-    "exclude" : "(Ecuador|EC)",
-    "max_pages": 1,
-    "layout": "layout.ect"
-}

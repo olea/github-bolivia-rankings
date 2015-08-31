@@ -1,7 +1,0 @@
-{
-    "output_dir": "../top-github-users-data",
-    "city" : "Álava",
-    "location": ["Álava","Araba","Vitoria","Gasteiz"],
-    "exclude" : "(Bra|ES|es|Saudi)",
-    "layout": "layout.ect"
-}

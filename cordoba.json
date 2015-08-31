@@ -1,8 +1,0 @@
-{
-    "output_dir": "../top-github-users-data",
-    "location": ["Córdoba","Cordoba"],
-    "city" : "Córdoba",
-    "exclude" : "(rgenti|rgenet|Cuarto|AR|Cap|Vera)",
-    "layout": "cordoba.ect",
-    "max_pages": 7
-}

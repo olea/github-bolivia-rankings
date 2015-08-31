@@ -1,8 +1,0 @@
-{
-    "output_dir": "../top-github-users-data",
-    "location": ["Asturias","Asturies","Oviedo","Uvieu","Gijón","Mieres"],
-    "exclude" : "(Florida|FL|High|Fl)",
-    "city" : "Asturias",
-    "layout": "layout.ect",
-    "max_pages": 3
-}

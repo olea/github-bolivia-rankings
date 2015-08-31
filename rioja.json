@@ -1,7 +1,0 @@
-{
-    "output_dir": "../top-github-users-data",
-    "city" : "Rioja",
-    "location": ["Logroño","Rioja"],
-    "exclude" : "Argenti",
-    "layout": "layout.ect"
-}

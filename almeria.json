@@ -1,7 +1,0 @@
-{
-    "output_dir": "../top-github-users-data",
-    "city" : "Almería",
-    "location": ["Almería","Almeria"],
-    "max_pages": 5,
-    "layout": "layout.ect"
-}

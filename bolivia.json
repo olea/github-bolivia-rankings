@@ -1,0 +1,7 @@
+{
+    "output_dir": "github-bolivia-rankings",
+    "location": ["Bolivia","Bolivie","Bolivien"],
+    "city" : "Bolivia",
+    "layout": "layout.ect",
+    "big" : true
+}

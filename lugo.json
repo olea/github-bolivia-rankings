@@ -1,8 +1,0 @@
-{
-    "output_dir": "../top-github-users-data",
-    "location": ["Lugo","Chantada","Monforte de Lemos"],
-    "city" : "Lugo",
-    "exclude" : "(Llanera)",
-    "max_pages": 3,
-    "layout": "layout.ect"
-}

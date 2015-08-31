@@ -1,8 +1,0 @@
-{
-    "output_dir": "../top-github-users-data",
-    "location": ["Zaragoza","Saragossa","Zaragozá","Calatayud","Utebo"],
-    "city" : "Zaragoza",
-    "exclude" : "(México|Oax)",
-    "layout": "layout.ect",
-    "max_pages": 4
-}

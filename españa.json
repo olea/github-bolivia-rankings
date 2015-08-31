@@ -1,8 +1,0 @@
-{
-    "output_dir": "../top-github-users-data",
-    "location": ["España","Spain","Espagne","Spanien"],
-    "city" : "España",
-    "layout": "layout.ect",
-    "big" : true,
-    "cutoff" : [9,5,3,[2,1],[1,2,"2014-06-01"],[0,4,["2012-06-01","2013-06-01","2014-03-01","2014-09-01","2015-01-01"]]]
-}

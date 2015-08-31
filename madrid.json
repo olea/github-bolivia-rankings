@@ -1,7 +1,0 @@
-{
-    "output_dir": "../top-github-users-data",
-    "city" : "Madrid",
-    "layout": "layout.ect",
-    "cutoff" : [4,2,1,[0,2,"2014-01-01"]],
-    "big" : true
-}
