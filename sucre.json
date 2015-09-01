@@ -1,0 +1,7 @@
+{
+    "output_dir": "github-bolivia-rankings",
+    "location": ["Sucre"],
+    "city" : "Sucre",
+    "exclude" : "(Venezuela|Colombia)",
+    "layout": "layout.ect"
+}
